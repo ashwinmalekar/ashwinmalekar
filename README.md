@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hello
 
-## 🚀 About Me
-
+## About Me
 
 A **Software Developer with AI/ML expertise**. Having worked around 2 years as a Software Developer at 2 AI startups, taking features that make a business impact, from concept to the production environment, I'm proficient in TypeScript, Python, Angular, REST APIs & Microsoft Azure. 
 
