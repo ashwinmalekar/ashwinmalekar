@@ -1,11 +1,13 @@
-## Hello!
+## Hi, I'm Ashwin! (Microsoft Azure Certified)
 
-## About Me
+I'm a Data Scientist with 2 years of experience, specialising in Gen AI & Agentic AI. Recently graduated with a MSc Data Science from The University of Birmingham, where I worked on enhancing Recommender Systems for my dissertation. Previously I worked at Legal Pythia as a Data Scientist (6 months) to develop PoC RAG-based PDF chatbot for a financial services client & at Exponentia.ai as a Software Engineer(1.5 years), contributing to automate email responses for a public sector bank. 
 
-A **Data Scientist with 2 YoE**. Having worked around 2 years as a Data Science Intern/Software Engineer at 2 AI startups, taking features that make a business impact, from concept to the production environment, I'm proficient in Python, SQL, Microsoft Azure, TypeScript, Angular
+I'm skilled in Python, SQL, PyTorch, LangChain, LangGraph, HuggingFace, FAISS, Azure, LLMs/SLMs
 
-Where does my AI/ML expertise come from? 
-I've acheived a M.Sc. in Data Science with **Distinction** from the University of Birmingham, where I designed an advanced recommendation model using deep learning techniques that enhance the personalisation of recommendations in the model inference, improving the hit rate by 20%. During this, I explored various recommendation algorithms & was able to outperform traditionally used methods. 
+Specialising in Gen AI, Agentic AI, Recommender Systems, Vector Databases, LLM/Transformer Architecture
+
+
+
 
 
 
